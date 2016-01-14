@@ -1,0 +1,7 @@
+/data/Progs/TreeNote/TreeNote/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/data/Progs/TreeNote/TreeNote/obj/x86/Debug/TreeNote.gtk-gui.gui.stetic
+/data/Progs/TreeNote/TreeNote/obj/x86/Debug/TreeNote.TreeNote.bmp.png
+/data/Progs/TreeNote/TreeNote/bin/Debug/TreeNote.exe.mdb
+/data/Progs/TreeNote/TreeNote/bin/Debug/TreeNote.exe
+/data/Progs/TreeNote/TreeNote/obj/x86/Debug/TreeNote.exe
+/data/Progs/TreeNote/TreeNote/obj/x86/Debug/TreeNote.exe.mdb
